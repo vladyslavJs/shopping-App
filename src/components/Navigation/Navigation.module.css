@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    position: fixed;
+    justify-content: flex-end;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: 12px;
+    gap: 25px;
+}
+
+.link {
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.isActive {
+    /* text-decoration: underline #fff; */
+    color: red;
+}
