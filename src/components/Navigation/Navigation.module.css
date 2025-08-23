@@ -18,6 +18,5 @@
 }
 
 .isActive {
-    /* text-decoration: underline #fff; */
-    color: red;
+    color: #ff0000;
 }

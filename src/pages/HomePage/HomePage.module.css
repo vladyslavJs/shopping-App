@@ -12,10 +12,11 @@
 .main {
     font-size: 96px;
     font-weight: 600;
-    color: #fff;
+    color: #D3D3D3;
 }
 
 .add {
     font-size: 18px;
-    color: #000000; 
+    color: #D3D3D3;
+    line-height: 1.5; 
 }
