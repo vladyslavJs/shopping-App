@@ -6,6 +6,7 @@ import Layout from './layouts/Layout';
 
 import HomePage from './pages/HomePage/HomePage';
 import NotFoundPage from './pages/NotFoundPage/NotFoundPage';
+import SneakersList from './components/SneakersList/SneakersList';
 
 
 export default function App() {
